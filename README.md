@@ -47,5 +47,7 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
 ### 📈 Let's Connect!
 ✨ **LinkedIn:** [linkedin.com/in/abdul-aziz-abbasi](https://linkedin.com/in/abdulazizabbasi)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizabbasssi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <a href="https://linkedin.com/in/abdul-aziz-abbasi">
+    <img src="https://img.shields.io/badge/Connect%20On-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </p>

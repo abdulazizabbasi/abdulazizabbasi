@@ -52,4 +52,5 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
   </a>
 </p>
 
-![Github Snake Animation](https://raw.githubusercontent.com/abdulazizabbasi/abdulazizabbasi/output/github-contribution-grid-snake-dark.svg)
+🤖 **3D Metric Architecture Grid**
+![](https://github-profile-3d-contrib.vercel.app/api?username=abdulazizabbasi&theme=night_green)

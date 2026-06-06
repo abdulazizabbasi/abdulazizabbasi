@@ -10,7 +10,7 @@
 </p>
 
 ---
-### 🛡️ About Me
+### About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&width=500&lines=Building+Cloud+Security+Pipelines;Executing+Digital+Forensics;Turning+Raw+Logs+into+Threat+Intel" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
 * 🔍 **Forensics:** Executing data recovery and artifact analysis via **Autopsy** & **FTK Imager** under strict cryptographic verification.
 * ⚙️ **Automation:** Developing automated security tooling, hardening host configs, and optimizing secure data streams.
 
-### 🧰Tech Stack & Tools
+### Tech Stack & Tools
 
 #### ☁️ Cloud & Infrastructure Security
 🚀 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ⚡ ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 📦 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 🗺️ ![VPC Flow Logs](https://img.shields.io/badge/VPC_Flow_Logs-00FFCC?style=for-the-badge)
@@ -33,7 +33,7 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
 
 ---
 
-### 🚀 Highlighted Security Projects
+###  Highlighted Security Projects
 
 *   **☁️ Cloud-Native Threat Intelligence Honeypot**  
     Engineered a serverless data pipeline on AWS to log live malicious traffic using **VPC Flow Logs**, parsing IP metadata with **AWS Lambda** to map automated brute-force threat vectors in real-time.

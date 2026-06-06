@@ -51,4 +51,5 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
     <img src="https://img.shields.io/badge/Connect%20On-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
+
 ![Github Snake Animation](https://raw.githubusercontent.com/abdulazizabbasi/abdulazizabbasi/output/github-contribution-grid-snake-dark.svg)

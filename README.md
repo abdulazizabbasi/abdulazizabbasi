@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Internships-00FFCC?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00FFCC?style=for-the-badge&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-DFIR%20%26%20Cloud-blue?style=for-the-badge" alt="Focus" />
 </p>
 
